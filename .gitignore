@@ -1,0 +1,13 @@
+# 建置產物 / build artifacts
+target/
+_build/
+.mooncakes/
+*.wasm
+*.core
+*.mi
+# 開發用編譯器（由 dev/setup.sh 下載，不進版控）
+dev/node_modules/
+dev/package-lock.json
+dev/package.json
+dev/.payload/
+dev/.out/

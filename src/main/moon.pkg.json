@@ -1,0 +1,4 @@
+{
+  "is-main": true,
+  "import": ["djrww/ky000/lib"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "djrww/ky000",
+  "version": "0.1.0",
+  "source": "src",
+  "readme": "README.md",
+  "license": "MIT",
+  "keywords": ["group-theory", "finite-simple-groups", "actions", "algorithms", "formalization"],
+  "description": "有限單群與其作用之組合：公理、定義、命題、定理、算式與義務自證（純 MoonBit，無第三方依賴）"
+}
